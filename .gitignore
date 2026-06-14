@@ -1,0 +1,5 @@
+Set-Content .gitignore @"
+__pycache__/
+.ipynb_checkpoints/
+.docker/
+"@
